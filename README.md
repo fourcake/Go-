@@ -53,4 +53,6 @@ Go青训
 
 
 
-![image-20220507151102566](images/image-20220507151102566.png)
+# 写在最后
+
+FUCK，JetBrains yyds
